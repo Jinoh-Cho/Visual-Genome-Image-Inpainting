@@ -1,9 +1,3 @@
-# PyTorch StudioGAN: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
-# The MIT License (MIT)
-# See license file or visit https://github.com/POSTECH-CVLab/PyTorch-StudioGAN for details
-
-# src/config.py
-
 import json
 import os
 import random
