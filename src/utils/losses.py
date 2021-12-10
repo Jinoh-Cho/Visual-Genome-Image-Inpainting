@@ -1,9 +1,3 @@
-# PyTorch StudioGAN: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
-# The MIT License (MIT)
-# See license file or visit https://github.com/POSTECH-CVLab/PyTorch-StudioGAN for details
-
-# src/utils/loss.py
-
 from torch.nn import DataParallel
 from torch import autograd
 import torch
