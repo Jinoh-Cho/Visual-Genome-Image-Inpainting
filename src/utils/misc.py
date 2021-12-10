@@ -1,9 +1,3 @@
-# PyTorch StudioGAN: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
-# The MIT License (MIT)
-# See license file or visit https://github.com/POSTECH-CVLab/PyTorch-StudioGAN for details
-
-# src/utils/misc.py
-
 from os.path import dirname, exists, join, isfile
 from datetime import datetime
 from collections import defaultdict
