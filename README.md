@@ -46,7 +46,7 @@ data
            ├── train0.png
            ├── train1.png
            └── ...
-    ```
+```
 
 ## License
 This Library is an open-source library under the MIT license (MIT). However, portions of the library are avaiiable under distinct license terms: Synchronized batch normalization is licensed under [MIT license](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN/blob/master/src/sync_batchnorm/LICENSE), HDF5 generator is licensed under [MIT license](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN/blob/master/src/utils/hdf5.py), and differentiable SimCLR-style augmentations is licensed under [MIT license](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN/blob/master/src/utils/simclr_aug.py).
