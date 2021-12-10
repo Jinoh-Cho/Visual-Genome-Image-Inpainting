@@ -1,9 +1,3 @@
-# PyTorch StudioGAN: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
-# The MIT License (MIT)
-# See license file or visit https://github.com/POSTECH-CVLab/PyTorch-StudioGAN for details
-
-# models/big_resnet.py
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
