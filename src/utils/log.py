@@ -1,9 +1,3 @@
-# PyTorch StudioGAN: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
-# The MIT License (MIT)
-# See license file or visit https://github.com/POSTECH-CVLab/PyTorch-StudioGAN for details
-
-# src/utils/log.py
-
 from os.path import dirname, exists, join
 from datetime import datetime
 import json
