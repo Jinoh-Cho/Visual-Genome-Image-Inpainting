@@ -1,4 +1,4 @@
-# Visual-Genome-Image-Inpainting
+# Visual-Genome-Image-Inpaintings
 
 
 This repository aims to train an autoEncoder-based BigGAN model for image inpainting. Specifically, the autoencoder-based BigGAN model tries to fill a missing part of an image using visual common sense.
